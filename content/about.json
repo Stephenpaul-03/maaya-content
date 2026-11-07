@@ -1,0 +1,58 @@
+{
+  "$schema": "./schemas/about.schema.json",
+  "illustrationLines": [
+    "well-worn pages.",
+    "wide-open minds."
+  ],
+  "story": {
+    "title": [
+      "Good books deserve",
+      "good company."
+    ],
+    "paragraphs": [
+      "{brand} began with a simple thought: discovering your next book should feel like wandering into a small, well-loved bookshop.",
+      "A place without the rush. Where a recommendation has a reason behind it, a shelf invites a detour, and there’s always something you didn’t know you were looking for.",
+      "We bring together stories, essays, and ideas that reward your attention. Save a book for later, follow a reading list, or spend a few minutes in the journal. This little corner is yours to explore."
+    ],
+    "linkLabel": "Come browse a shelf"
+  },
+  "values": [
+    {
+      "id": "01",
+      "title": "Considered, not crowded.",
+      "text": "A small selection, chosen with a point of view. Every book earns its place."
+    },
+    {
+      "id": "02",
+      "title": "Curiosity comes first.",
+      "text": "Follow an unfamiliar idea. Read outside your usual shelf. Leave room for surprise."
+    },
+    {
+      "id": "03",
+      "title": "At your own pace.",
+      "text": "No reading targets here. Just a little company for the chapter you’re in."
+    }
+  ],
+  "faq": {
+    "eyebrow": "A FEW GOOD QUESTIONS",
+    "title": "Before you turn the page.",
+    "items": [
+      {
+        "question": "Can I buy books here?",
+        "answer": "Save the books you’re interested in to your bookshelf, then choose “Ask on WhatsApp” or “Ask by email” to open a prefilled availability request. Review the message and send it when you’re ready."
+      },
+      {
+        "question": "Where is my bookshelf saved?",
+        "answer": "Your book wishlist is saved in this browser on this device. No account is needed. Clearing browser storage will remove it."
+      },
+      {
+        "question": "How are the books selected?",
+        "answer": "This starter collection brings together fiction, art, essays, and nature writing around curiosity, attention, and thoughtful living."
+      },
+      {
+        "question": "Are the covers original editions?",
+        "answer": "Where available, covers are sourced from Google Books. Otherwise, we show an original typographic interpretation. Cover artwork may differ from the edition in stock; confirm the edition when you enquire."
+      }
+    ]
+  }
+}

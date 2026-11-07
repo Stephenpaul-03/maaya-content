@@ -1,0 +1,347 @@
+{
+  "$schema": "./schemas/catalog.schema.json",
+  "genres": [
+    {
+      "id": "fiction",
+      "label": "Fiction"
+    },
+    {
+      "id": "poetry-essays",
+      "label": "Poetry & essays"
+    },
+    {
+      "id": "art-culture",
+      "label": "Art & culture"
+    },
+    {
+      "id": "nature",
+      "label": "Nature"
+    },
+    {
+      "id": "philosophy",
+      "label": "Philosophy & ideas"
+    },
+    {
+      "id": "memoir",
+      "label": "Memoir"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "The Creative Act",
+      "author": "Rick Rubin",
+      "genreId": "art-culture",
+      "cover": {
+        "style": "creative",
+        "footer": "A WAY OF BEING"
+      },
+      "note": "A little room for possibility.",
+      "description": "A generous invitation to notice more, listen closely, and make space for creativity in everyday life. Less a manual for making art, more a way of being in the world.",
+      "year": "2023",
+      "languageIds": ["en"]
+    },
+    {
+      "id": 2,
+      "title": "Before the Coffee Gets Cold",
+      "author": "Toshikazu Kawaguchi",
+      "genreId": "fiction",
+      "cover": {
+        "style": "coffee",
+        "footer": "THE MARGIN COLLECTION"
+      },
+      "note": "For the conversations left unfinished.",
+      "description": "In a small Tokyo café, a very particular seat offers the chance to travel back in time. Four visitors discover what can change, and what stays with us, over a cup of coffee.",
+      "year": "2015",
+      "languageIds": ["en"]
+    },
+    {
+      "id": 3,
+      "title": "The Book of Disquiet",
+      "author": "Fernando Pessoa",
+      "genreId": "poetry-essays",
+      "cover": {
+        "style": "disquiet",
+        "footer": "THE MARGIN COLLECTION"
+      },
+      "note": "An entire universe, within.",
+      "description": "A collection of fragments, observations, and waking dreams from a restless inner life. A book to open anywhere, linger over, and return to throughout the years.",
+      "year": "1982",
+      "languageIds": ["en"]
+    },
+    {
+      "id": 4,
+      "title": "Braiding Sweetgrass",
+      "author": "Robin Wall Kimmerer",
+      "genreId": "nature",
+      "cover": {
+        "style": "sweetgrass",
+        "footer": "INDIGENOUS WISDOM · SCIENTIFIC KNOWLEDGE"
+      },
+      "note": "Learning to listen to the living world.",
+      "description": "Botanist Robin Wall Kimmerer brings Indigenous knowledge into conversation with science, exploring the gifts of the natural world and the responsibilities of receiving them.",
+      "year": "2013",
+      "languageIds": ["en"]
+    },
+    {
+      "id": 5,
+      "title": "The Architecture of Happiness",
+      "author": "Alain de Botton",
+      "genreId": "art-culture",
+      "cover": {
+        "style": "architecture",
+        "footer": "THE MARGIN COLLECTION"
+      },
+      "note": "The spaces that shape us.",
+      "description": "An exploration of how our homes, buildings, and everyday surroundings influence who we are and how we feel. A thoughtful look at the relationship between good design and a good life.",
+      "year": "2006",
+      "languageIds": ["en"]
+    },
+    {
+      "id": 6,
+      "title": "Small Things Like These",
+      "author": "Claire Keegan",
+      "genreId": "fiction",
+      "cover": {
+        "style": "small",
+        "footer": "THE MARGIN COLLECTION"
+      },
+      "note": "A small book. A lasting impression.",
+      "description": "In an Irish town at Christmas, a coal merchant faces a choice that unsettles his quiet life. A spare and deeply moving story about courage, kindness, and what we owe one another.",
+      "year": "2021",
+      "languageIds": ["en"]
+    },
+
+    {
+      "id": 7,
+      "title": "Piranesi",
+      "author": "Susanna Clarke",
+      "genreId": "fiction",
+      "cover": {
+        "style": "disquiet",
+        "footer": "THE HOUSE REMEMBERS"
+      },
+      "note": "Somewhere between a dream and a world.",
+      "description": "A mysterious house of endless halls, statues, tides, and forgotten memories becomes the entire world of its solitary inhabitant.",
+      "year": "2020",
+      "languageIds": ["en"]
+    },
+    {
+      "id": 8,
+      "title": "A Psalm for the Wild-Built",
+      "author": "Becky Chambers",
+      "genreId": "fiction",
+      "cover": {
+        "style": "sweetgrass",
+        "footer": "A SOLARPUNK TALE"
+      },
+      "note": "A quiet story about finding enough.",
+      "description": "A tea monk and a robot meet on a moon where humanity has learned to live differently. A gentle story about purpose, rest, and what it means to live a good life.",
+      "year": "2021",
+      "languageIds": ["en"]
+    },
+    {
+      "id": 9,
+      "title": "The Ocean at the End of the Lane",
+      "author": "Neil Gaiman",
+      "genreId": "fiction",
+      "cover": {
+        "style": "small",
+        "footer": "THE END OF THE LANE"
+      },
+      "note": "Memory has strange tides.",
+      "description": "Returning to the place where he grew up, a man remembers an impossible childhood encounter that still seems to ripple beneath the surface of ordinary life.",
+      "year": "2013",
+      "languageIds": ["en"]
+    },
+    {
+      "id": 10,
+      "title": "The Anthropocene Reviewed",
+      "author": "John Green",
+      "genreId": "poetry-essays",
+      "cover": {
+        "style": "creative",
+        "footer": "ESSAYS ON A HUMAN PLANET"
+      },
+      "note": "Five stars for being alive.",
+      "description": "A collection of essays examining the strange, beautiful, ordinary things that make up human life, from sunsets and internet culture to disease and hope.",
+      "year": "2021",
+      "languageIds": ["en"]
+    },
+
+    {
+      "id": 11,
+      "title": "On Looking",
+      "author": "Alexandra Horowitz",
+      "genreId": "nature",
+      "cover": {
+        "style": "sweetgrass",
+        "footer": "ELEVEN WALKS WITH EXPERT EYES"
+      },
+      "note": "The familiar becomes strange when you look closely.",
+      "description": "A series of walks becomes an experiment in perception as different experts reveal the overlooked details hidden within ordinary streets and landscapes.",
+      "year": "2013",
+      "languageIds": ["en"]
+    },
+    {
+      "id": 12,
+      "title": "The Overstory",
+      "author": "Richard Powers",
+      "genreId": "nature",
+      "cover": {
+        "style": "sweetgrass",
+        "footer": "THE WORLD ABOVE THE GROUND"
+      },
+      "note": "There are stories older than us.",
+      "description": "Nine strangers are drawn into stories shaped by trees and forests, gradually discovering a world that operates on a scale far beyond a human lifetime.",
+      "year": "2018",
+      "languageIds": ["en"]
+    },
+    {
+      "id": 13,
+      "title": "Ways of Seeing",
+      "author": "John Berger",
+      "genreId": "art-culture",
+      "cover": {
+        "style": "architecture",
+        "footer": "LOOKING IS NEVER NEUTRAL"
+      },
+      "note": "Learning to look again.",
+      "description": "A compact and influential exploration of how we see paintings, photographs, advertisements, and the world around us—and how those ways of seeing are shaped by culture.",
+      "year": "1972",
+      "languageIds": ["en"]
+    },
+    {
+      "id": 14,
+      "title": "The Story of Art",
+      "author": "E. H. Gombrich",
+      "genreId": "art-culture",
+      "cover": {
+        "style": "architecture",
+        "footer": "FROM CAVE PAINTINGS TO MODERN ART"
+      },
+      "note": "A lifetime of looking at pictures.",
+      "description": "A sweeping introduction to Western art history, tracing the development of painting, sculpture, and architecture through centuries of changing ideas and techniques.",
+      "year": "1950",
+      "languageIds": ["en"]
+    },
+
+    {
+      "id": 15,
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "genreId": "philosophy",
+      "cover": {
+        "style": "disquiet",
+        "footer": "NOTES TO THE SELF"
+      },
+      "note": "A conversation with oneself.",
+      "description": "Personal reflections from a Roman emperor on discipline, mortality, responsibility, perception, and the attempt to live well.",
+      "year": "180",
+      "languageIds": ["en"]
+    },
+    {
+      "id": 16,
+      "title": "The Consolations of Philosophy",
+      "author": "Alain de Botton",
+      "genreId": "philosophy",
+      "cover": {
+        "style": "creative",
+        "footer": "PHILOSOPHY FOR ORDINARY DAYS"
+      },
+      "note": "Old ideas for modern problems.",
+      "description": "Six philosophers become companions for six familiar difficulties: unpopularity, poverty, frustration, inadequacy, heartbreak, and the fear of death.",
+      "year": "2000",
+      "languageIds": ["en"]
+    },
+    {
+      "id": 17,
+      "title": "Man's Search for Meaning",
+      "author": "Viktor E. Frankl",
+      "genreId": "philosophy",
+      "cover": {
+        "style": "disquiet",
+        "footer": "THE SEARCH FOR MEANING"
+      },
+      "note": "What remains when everything else is stripped away.",
+      "description": "Part memoir and part psychological reflection, Frankl examines suffering, purpose, and the human search for meaning through the experience of surviving Nazi concentration camps.",
+      "year": "1946",
+      "languageIds": ["en"]
+    },
+
+    {
+      "id": 18,
+      "title": "The Anthropocene Reviewed",
+      "author": "John Green",
+      "genreId": "memoir",
+      "cover": {
+        "style": "creative",
+        "footer": "A HUMAN INVENTORY"
+      },
+      "note": "Notes from an ordinary life.",
+      "description": "Personal essays that move between memory, observation, science, and the small rituals of everyday life.",
+      "year": "2021",
+      "languageIds": ["en"]
+    },
+    {
+      "id": 19,
+      "title": "Crying in H Mart",
+      "author": "Michelle Zauner",
+      "genreId": "memoir",
+      "cover": {
+        "style": "coffee",
+        "footer": "FOOD · FAMILY · MEMORY"
+      },
+      "note": "Sometimes memory has a taste.",
+      "description": "A memoir of family, food, grief, identity, and the complicated ways we remain connected to people after they are gone.",
+      "year": "2021",
+      "languageIds": ["en"]
+    },
+    {
+      "id": 20,
+      "title": "A Field Guide to Getting Lost",
+      "author": "Rebecca Solnit",
+      "genreId": "poetry-essays",
+      "cover": {
+        "style": "small",
+        "footer": "ON UNCERTAINTY & DISCOVERY"
+      },
+      "note": "Not every path needs a destination.",
+      "description": "Meditations on uncertainty, wandering, memory, landscape, and the strange freedom that comes from not knowing exactly where we are going.",
+      "year": "2005",
+      "languageIds": ["en"]
+    }
+  ],
+  "languages": [
+    {
+      "id": "en",
+      "label": "English",
+      "nativeLabel": "English",
+      "direction": "ltr"
+    },
+    {
+      "id": "ta",
+      "label": "Tamil",
+      "nativeLabel": "தமிழ்",
+      "direction": "ltr"
+    },
+    {
+      "id": "ml",
+      "label": "Malayalam",
+      "nativeLabel": "മലയാളം",
+      "direction": "ltr"
+    },
+    {
+      "id": "hi",
+      "label": "Hindi",
+      "nativeLabel": "हिन्दी",
+      "direction": "ltr"
+    },
+    {
+      "id": "ar",
+      "label": "Arabic",
+      "nativeLabel": "العربية",
+      "direction": "rtl"
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "version": 1,
+  "books": {
+    "1": {
+      "fingerprint": "361271088460740ea9bb",
+      "title": "The Creative Act",
+      "author": "Rick Rubin",
+      "languageIds": [
+        "en"
+      ],
+      "checkedAt": "2026-09-30T04:24:55.126Z",
+      "status": "ready",
+      "path": "book-covers/1-361271088460740ea9bb-63f1c8aa9a655e17.png",
+      "imageSize": "extraLarge",
+      "volumeId": "tRN5EAAAQBAJ",
+      "sourceUrl": "https://books.google.com/books/publisher/content?id=tRN5EAAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE70NQhmsyMCPiBl-RXCXWM1V9A9eWvtXecIC9ck33qkT7cfhHVgnQFMI21TcgimnMYP5O00ouEmkbkXtcY7B77Z6M0XgGBF-nS-F17R4p-FFTyQxbvOqJh4goivw1dUk5K79tHEN&source=gbs_api",
+      "sourcePage": "https://books.google.com/books?id=tRN5EAAAQBAJ"
+    },
+    "2": {
+      "fingerprint": "f1e41378e479cb3bc369",
+      "title": "Before the Coffee Gets Cold",
+      "author": "Toshikazu Kawaguchi",
+      "languageIds": [
+        "en"
+      ],
+      "checkedAt": "2026-09-30T04:24:59.360Z",
+      "status": "ready",
+      "path": "book-covers/2-f1e41378e479cb3bc369-f5cddba918a9f6d3.jpg",
+      "imageSize": "extraLarge",
+      "volumeId": "MOPMDwAAQBAJ",
+      "sourceUrl": "https://books.google.com/books/publisher/content?id=MOPMDwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE72DhEWcG4cziHT8fFBLefBpAET2PQamHDoR3zOKWlHD2n2Tf_wiv5YLAP7p218clxLJzDbJT6TpWGcS8NcTfIxYu9EXOxFETKF-94N_q2I8A0vKF4Q8Zns6fWfuP6M-kHAhNfF4&source=gbs_api",
+      "sourcePage": "https://books.google.com/books?id=MOPMDwAAQBAJ"
+    },
+    "3": {
+      "fingerprint": "a6814b14c0d4048b3a66",
+      "title": "The Book of Disquiet",
+      "author": "Fernando Pessoa",
+      "languageIds": [
+        "en"
+      ],
+      "checkedAt": "2026-09-30T04:25:49.699Z",
+      "status": "ready",
+      "path": "book-covers/3-a6814b14c0d4048b3a66-fc6876de4192190f.jpg",
+      "imageSize": "extraLarge",
+      "volumeId": "fbVEDgAAQBAJ",
+      "sourceUrl": "https://books.google.com/books/publisher/content?id=fbVEDgAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE70EcmQi784DWuSUw9HH3gcEzJ_yEbsDluDSFUCxXJ5E8rujumQ3hzxyb8ZuAu39xPJ4fY6570E9X19Rfv9HK1ExzSr71pR5F0rEmoPsdPpF-deOpOX1tnHQD2Pdle3Fl8ylIuBQ&source=gbs_api",
+      "sourcePage": "https://books.google.com/books?id=fbVEDgAAQBAJ"
+    },
+    "4": {
+      "fingerprint": "643ff5420fe5df9acdf9",
+      "title": "Braiding Sweetgrass",
+      "author": "Robin Wall Kimmerer",
+      "languageIds": [
+        "en"
+      ],
+      "checkedAt": "2026-09-30T04:25:04.375Z",
+      "status": "ready",
+      "path": "book-covers/4-643ff5420fe5df9acdf9-4994bd7b759e3892.jpg",
+      "imageSize": "thumbnail",
+      "volumeId": "Eq2GmQEACAAJ",
+      "sourceUrl": "https://books.google.com/books/content?id=Eq2GmQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71JIWJ_NvdFs8Fz3VHbDX_DV-19wkJZjWJOTJYA84uMHPpyYM21w7sFK0KXs8bOwx55_Zg08JRb0SB8BsjlzN5i2vCTVQ-KtH6z-djHvOGZVtIHp8BFtneLw7vsn5nB3FXWqCpD&source=gbs_api",
+      "sourcePage": "https://books.google.com/books?id=Eq2GmQEACAAJ"
+    },
+    "5": {
+      "fingerprint": "ed225b692303bab882d4",
+      "title": "The Architecture of Happiness",
+      "author": "Alain de Botton",
+      "languageIds": [
+        "en"
+      ],
+      "checkedAt": "2026-09-30T04:25:07.353Z",
+      "status": "ready",
+      "path": "book-covers/5-ed225b692303bab882d4-de769db50de5f7e5.jpg",
+      "imageSize": "extraLarge",
+      "volumeId": "mcWDx4nDh5oC",
+      "sourceUrl": "https://books.google.com/books/content?id=mcWDx4nDh5oC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE73rQU2L-IMBdU68iydjLd08GjEKcoiP8uqq5tfHI9PvW7m1H7cNt0z9MxNeOxISkWbdf1O5LRDPath_FVA5yupcslUoAs5cSF2ByCZf0LoVBEZzYuPZr_Ju7uO_eCb7Mz47G9f-&source=gbs_api",
+      "sourcePage": "https://books.google.com/books?id=mcWDx4nDh5oC"
+    },
+    "6": {
+      "fingerprint": "d0f090086112dccc5d11",
+      "title": "Small Things Like These",
+      "author": "Claire Keegan",
+      "languageIds": [
+        "en"
+      ],
+      "checkedAt": "2026-09-30T04:25:55.052Z",
+      "status": "ready",
+      "path": "book-covers/6-d0f090086112dccc5d11-669765f3fa7c753f.jpg",
+      "imageSize": "extraLarge",
+      "volumeId": "xbIbEAAAQBAJ",
+      "sourceUrl": "https://books.google.com/books/publisher/content?id=xbIbEAAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71qww3DoES3Zz2qn80JXjyxNw0pCefugdw9vjAL1lpRwPIIk3rwomOkwok7w6pl4rZpVuNfhsqJxMcOckJQ4WzgkaKz8NJYGFkGJ4CBJoMscOSpx-4F-JL-lAc7pPcu6fNNsP3R&source=gbs_api",
+      "sourcePage": "https://books.google.com/books?id=xbIbEAAAQBAJ"
+    },
+    "7": {
+      "fingerprint": "b770064244fd5c0e1dd9",
+      "title": "Piranesi",
+      "author": "Susanna Clarke",
+      "languageIds": [
+        "en"
+      ],
+      "checkedAt": "2026-09-30T04:33:55.331Z",
+      "status": "ready",
+      "path": "book-covers/7-b770064244fd5c0e1dd9-076cadd04c773c55.jpg",
+      "imageSize": "extraLarge",
+      "volumeId": "pPa0DwAAQBAJ",
+      "sourceUrl": "https://books.google.com/books/publisher/content?id=pPa0DwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71Gs52Ez2X0j-VRldhJMAye0h7dGR3i7DyIKtLI_4QHXdNtmkLbMK_w0caOaxhYCAzUUEwP8Q31Nj5mS33tG_cJJRcoMePLsTUHcSQ6_V7IgeCdfSltxNr6VlYlV17cMly-BeW6&source=gbs_api",
+      "sourcePage": "https://books.google.com/books?id=pPa0DwAAQBAJ"
+    },
+    "8": {
+      "fingerprint": "eb702d58bdc0a8558f24",
+      "title": "A Psalm for the Wild-Built",
+      "author": "Becky Chambers",
+      "languageIds": [
+        "en"
+      ],
+      "checkedAt": "2026-09-30T04:33:58.459Z",
+      "status": "ready",
+      "path": "book-covers/8-eb702d58bdc0a8558f24-dd0e6cda60d29240.jpg",
+      "imageSize": "extraLarge",
+      "volumeId": "XgT6DwAAQBAJ",
+      "sourceUrl": "https://books.google.com/books/publisher/content?id=XgT6DwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE72E98jIx18YQkFbiwxNKL36lSKbQIG80Mzc20Q85QR05EVtbT7M-LC11pea9iDYX28_b3UcVPmT_9qw_f7P985EQWlszsHWafvavo5zYmAOVtChlCBsUj4dLTL66zGoMJXvkyb0&source=gbs_api",
+      "sourcePage": "https://books.google.com/books?id=XgT6DwAAQBAJ"
+    },
+    "9": {
+      "fingerprint": "5b4152cd9473420d81fb",
+      "title": "The Ocean at the End of the Lane",
+      "author": "Neil Gaiman",
+      "languageIds": [
+        "en"
+      ],
+      "checkedAt": "2026-09-30T04:34:05.390Z",
+      "status": "ready",
+      "path": "book-covers/9-5b4152cd9473420d81fb-5e75ab2b25689d31.jpg",
+      "imageSize": "extraLarge",
+      "volumeId": "L9fpff1b4kwC",
+      "sourceUrl": "https://books.google.com/books/content?id=L9fpff1b4kwC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE70Zkrk2WAn43T4J1nkahHOZ_Vb8EkA1zEf3QJ39cenNKzlOWDynqNBYPuzn4h0en-CcjqQ5liWSQ0HaEjLbzhWd7y8uyrIqAZ6I1mFKy8Q0-PstdE2MpUde5OWRoi9cVe0xs6fS&source=gbs_api",
+      "sourcePage": "https://books.google.com/books?id=L9fpff1b4kwC"
+    },
+    "10": {
+      "fingerprint": "e04cb0a6479c66cc90fb",
+      "title": "The Anthropocene Reviewed",
+      "author": "John Green",
+      "languageIds": [
+        "en"
+      ],
+      "checkedAt": "2026-09-30T04:34:09.175Z",
+      "status": "missing"
+    },
+    "11": {
+      "fingerprint": "d1de54b3e5eb260a2026",
+      "title": "On Looking",
+      "author": "Alexandra Horowitz",
+      "languageIds": [
+        "en"
+      ],
+      "checkedAt": "2026-09-30T04:34:10.882Z",
+      "status": "ready",
+      "path": "book-covers/11-d1de54b3e5eb260a2026-7586c14aacc686a9.png",
+      "imageSize": "extraLarge",
+      "volumeId": "pglQAwAAQBAJ",
+      "sourceUrl": "https://books.google.com/books/publisher/content?id=pglQAwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE737y-EZUXd3H-UZzswfLDErxll15VmWGCtgy_G1CNK5Xj-TD8inaW0Qy0M9U3AOQv_rsh12ste0nyL8nz6ZIyx0e3zbhgq0vk1UqmMMTqyh3gf4cO-NzMfhgiTNGOnzowxDBeC5&source=gbs_api",
+      "sourcePage": "https://books.google.com/books?id=pglQAwAAQBAJ"
+    },
+    "12": {
+      "fingerprint": "295b8d39d25173e32424",
+      "title": "The Overstory",
+      "author": "Richard Powers",
+      "languageIds": [
+        "en"
+      ],
+      "checkedAt": "2026-09-30T04:34:15.947Z",
+      "status": "ready",
+      "path": "book-covers/12-295b8d39d25173e32424-0b02f6cb827ee2c0.jpg",
+      "imageSize": "thumbnail",
+      "volumeId": "GzXawAEACAAJ",
+      "sourceUrl": "https://books.google.com/books/content?id=GzXawAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71eRtAJX1EffylEfKTzZewSW4_NdI06tMYiXckijcDUHV3SdefVqyuuVW0wZoXs6nylVtGX_saT78do7RVaCBixiGlcVGS4avJgGtnxqksW5xK9AQQ4IxEh--LuhX2rOjiJdk43&source=gbs_api",
+      "sourcePage": "https://books.google.com/books?id=GzXawAEACAAJ"
+    },
+    "13": {
+      "fingerprint": "a70cb870379bb7183bc5",
+      "title": "Ways of Seeing",
+      "author": "John Berger",
+      "languageIds": [
+        "en"
+      ],
+      "checkedAt": "2026-09-30T04:34:19.281Z",
+      "status": "ready",
+      "path": "book-covers/13-a70cb870379bb7183bc5-423b5f3a1fe415cf.png",
+      "imageSize": "extraLarge",
+      "volumeId": "_ehPAAAAMAAJ",
+      "sourceUrl": "https://books.google.com/books/content?id=_ehPAAAAMAAJ&printsec=frontcover&img=1&zoom=6&imgtk=AFLRE70luzICGw29EnYBQWhbhk2mqjcUymCtft41XG2JPKKAYJmBhKuyYA-ds4ffN8wShK2H7lFh2nW5Xwwn5XaFs4WRAk9fBmjL-OJ3b-jHgu0SHQeKYxyD1qaldE9l2C-QrOs-G7-P&source=gbs_api",
+      "sourcePage": "https://books.google.com/books?id=_ehPAAAAMAAJ"
+    },
+    "14": {
+      "fingerprint": "f8d8980ace27962bdcc9",
+      "title": "The Story of Art",
+      "author": "E. H. Gombrich",
+      "languageIds": [
+        "en"
+      ],
+      "checkedAt": "2026-09-30T04:34:22.375Z",
+      "status": "missing"
+    },
+    "15": {
+      "fingerprint": "444157c52a9fddc9db8b",
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "languageIds": [
+        "en"
+      ],
+      "checkedAt": "2026-09-30T04:34:24.137Z",
+      "status": "missing"
+    },
+    "16": {
+      "fingerprint": "51fa2d1707b6a5883b16",
+      "title": "The Consolations of Philosophy",
+      "author": "Alain de Botton",
+      "languageIds": [
+        "en"
+      ],
+      "checkedAt": "2026-09-30T04:34:24.936Z",
+      "status": "ready",
+      "path": "book-covers/16-51fa2d1707b6a5883b16-8b4040f009acbd6b.jpg",
+      "imageSize": "extraLarge",
+      "volumeId": "e5b5GrNtMrQC",
+      "sourceUrl": "https://books.google.com/books/content?id=e5b5GrNtMrQC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71hbia8zjJ8fo-XI1Qgj5kdKR7bvpaZlZ9fc3yUBDRZJdfqlCPyT3dkoo4k-FyGtVV1l_uqiwRPUStdAG8snrGBmLY9JnO9AJCHWU5zRR9d8TGxp-wDI216RdpnJWWJ5IsneZR9&source=gbs_api",
+      "sourcePage": "https://books.google.com/books?id=e5b5GrNtMrQC"
+    },
+    "17": {
+      "fingerprint": "9c9a19dc88cb366eb5a5",
+      "title": "Man's Search for Meaning",
+      "author": "Viktor E. Frankl",
+      "languageIds": [
+        "en"
+      ],
+      "checkedAt": "2026-09-30T04:34:27.833Z",
+      "status": "ready",
+      "path": "book-covers/17-9c9a19dc88cb366eb5a5-6f85afaf1653e223.jpg",
+      "imageSize": "extraLarge",
+      "volumeId": "8SERAAAAQBAJ",
+      "sourceUrl": "https://books.google.com/books/publisher/content?id=8SERAAAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE714fluT3ywqYpXA6q3DkxRPj7d5wCON3iyyMfjOHfLrHksWqmhhb_gl33UbvbL31C68NLm21-fNSDAESFwF5C1Pfdj_i5yrxWAq7vfWDYtf8XAy4E8yxG1tROp99LVJbkMbzQ-A&source=gbs_api",
+      "sourcePage": "https://books.google.com/books?id=8SERAAAAQBAJ"
+    },
+    "18": {
+      "fingerprint": "e04cb0a6479c66cc90fb",
+      "title": "The Anthropocene Reviewed",
+      "author": "John Green",
+      "languageIds": [
+        "en"
+      ],
+      "checkedAt": "2026-09-30T04:34:32.316Z",
+      "status": "ready",
+      "path": "book-covers/18-e04cb0a6479c66cc90fb-9f670add4c34c1f2.jpg",
+      "imageSize": "large",
+      "volumeId": "ZPD4DwAAQBAJ",
+      "sourceUrl": "https://books.google.com/books/publisher/content?id=ZPD4DwAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE71qex_HLCWswBvK5jJha9gJfa_q4Vjnfpc4uCi3j07dkWYy7NJpT5hTl2ZkVejMgwNpQEY-Lgidgfw5a6EmFVHOU0FRqYD5HfMtOxmhE1tSjY_NrK-sxDUgvCGEcfCgFBApvy8P&source=gbs_api",
+      "sourcePage": "https://books.google.com/books?id=ZPD4DwAAQBAJ"
+    },
+    "19": {
+      "fingerprint": "f43c97b6d4fbdb2a10e6",
+      "title": "Crying in H Mart",
+      "author": "Michelle Zauner",
+      "languageIds": [
+        "en"
+      ],
+      "checkedAt": "2026-09-30T04:34:35.684Z",
+      "status": "ready",
+      "path": "book-covers/19-f43c97b6d4fbdb2a10e6-276482c1fe3ce4fd.jpg",
+      "imageSize": "thumbnail",
+      "volumeId": "qvw00QEACAAJ",
+      "sourceUrl": "https://books.google.com/books/content?id=qvw00QEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70Ygo6MOoebp1eUZPYz8ggFFIpgBe6YXIVwQ4LBOW9daC0kfRjqCpplz78QavpGlPqM6UpjdCyZCbtrqTZ7Y5vc5LMTlb8Mu8XiMI24ArLVUNi8X6GJYlLWMEMA5ncME64zASEn&source=gbs_api",
+      "sourcePage": "https://books.google.com/books?id=qvw00QEACAAJ"
+    },
+    "20": {
+      "fingerprint": "c86c17e023d48cf6e54e",
+      "title": "A Field Guide to Getting Lost",
+      "author": "Rebecca Solnit",
+      "languageIds": [
+        "en"
+      ],
+      "checkedAt": "2026-09-30T04:34:38.863Z",
+      "status": "ready",
+      "path": "book-covers/20-c86c17e023d48cf6e54e-2b24004bbab4e4ee.jpg",
+      "imageSize": "extraLarge",
+      "volumeId": "gGUAb9D9qOwC",
+      "sourceUrl": "https://books.google.com/books/content?id=gGUAb9D9qOwC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE73QADx1WNXOoA5DAtLyInA68UBp2aJtjZm_yCVTRWafgwpdA5XLINqZG_AQ_p23my00gTo1tcyd7tIBY5e4nUmQ_jYSwTPqhP1Oiv2RouodvWSbazGX8boKGn_qaOa7Ehz-hl5h&source=gbs_api",
+      "sourcePage": "https://books.google.com/books?id=gGUAb9D9qOwC"
+    }
+  }
+}

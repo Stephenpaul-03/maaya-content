@@ -1,0 +1,224 @@
+{
+  "$schema": "./schemas/stationery.schema.json",
+  "brand": {
+    "name": "Maaya",
+    "descriptor": "Stationery",
+    "homeLabel": "Maaya Stationery home"
+  },
+  "metadata": {
+    "title": "Maaya Stationery — More in your bag. Less on your bill.",
+    "description": "School lists, office restocks and everyday stationery, with wholesale-to-retail value and fewer middlemen."
+  },
+  "nav": {
+    "range": "The essentials",
+    "value": "Why Maaya",
+    "visit": "Plan your shop",
+    "books": "Visit the bookshop"
+  },
+  "hero": {
+    "eyebrow": "YOUR EVERYDAY STATIONERY. A BETTER WAY TO BUY.",
+    "title": "More in your bag.",
+    "accent": "Less on your bill.",
+    "text": "A new school term. A desk that needs restocking. An idea waiting for paper. Get the supplies you need with wholesale-to-retail value, minus the extra layers of markup.",
+    "cta": "Explore the essentials",
+    "secondary": "How we keep it simple",
+    "note": "For school, work and everything you’re making.",
+    "artLabel": "FRESH PAGES.\nBIG PLANS.",
+    "notebook": "THE NEXT BIG IDEA",
+    "stamp": "LESS MARKUP.\nMORE MAKING."
+  },
+  "strip": [
+    "SCHOOL LISTS",
+    "DESK RESTOCKS",
+    "CREATIVE STARTS",
+    "EVERYDAY VALUE"
+  ],
+  "range": {
+    "eyebrow": "01 / PICK YOUR STARTING POINT",
+    "title": "Little things. Big days.",
+    "text": "The pen you reach for. The notebook you fill. The supplies that keep your day moving. Start here, then bring us your list.",
+    "items": [
+      {
+        "title": "Put it on paper.",
+        "label": "WRITE & HIGHLIGHT",
+        "text": "Pens, pencils, markers and highlighters. For quick notes, neat homework and ideas worth keeping."
+      },
+      {
+        "title": "Turn a fresh page.",
+        "label": "PAPER & NOTEBOOKS",
+        "text": "Notebooks, writing pads and paper. From the first page of term to the last item on your to-do list."
+      },
+      {
+        "title": "Keep it together.",
+        "label": "FILE & ORGANISE",
+        "text": "Files, folders, clips and desk essentials. A little order for whatever your day throws at you."
+      },
+      {
+        "title": "Make a little mess.",
+        "label": "ART & CRAFT",
+        "text": "Colours, craft basics and creative tools. For school projects, weekend making and the joy of trying."
+      }
+    ]
+  },
+  "value": {
+    "eyebrow": "02 / GOOD SUPPLIES. FEWER DETOURS.",
+    "title": "Fewer markups.\nBetter prices.",
+    "text": "Extra resales mean extra margins. We buy through wholesale channels and sell straight to you, cutting out the multiple retailer layers that can build up the final price.",
+    "steps": [
+      {
+        "title": "Buy at wholesale",
+        "text": "We source through wholesale channels, keeping the starting cost lower."
+      },
+      {
+        "title": "Skip extra resales",
+        "text": "Stock comes to Maaya instead of passing through multiple retailer layers, each adding its own margin."
+      },
+      {
+        "title": "Sell directly to you",
+        "text": "Fewer accumulated markups mean better everyday prices. Ask us for the current price of your list."
+      }
+    ],
+    "caption": "We keep the wholesale source. We cut the extra retailer layers.",
+    "comparison": {
+      "title": "Where the extra cost comes from",
+      "usualLabel": "THE LONGER RETAIL ROUTE",
+      "usualRoute": [
+        "Company",
+        "Wholesaler",
+        "Retailer layer 1",
+        "Retailer layer 2",
+        "Customer"
+      ],
+      "usualNote": "Each extra resale can add handling costs and a profit margin. Those markups build into the final price.",
+      "directLabel": "THE MAAYA ROUTE",
+      "directRoute": [
+        "Company",
+        "Wholesaler",
+        "Maaya",
+        "You"
+      ],
+      "directNote": "Wholesale buying, straight to our customers. Fewer resale margins help us keep everyday stationery cheaper.",
+      "removedLabel": "Extra retailer layers",
+      "removedNote": "These are the extra resales we cut out.",
+      "note": "A simple illustration of the model. Actual savings vary by product, brand, pack size and current stock."
+    }
+  },
+  "lists": {
+    "eyebrow": "03 / WHAT’S ON YOUR LIST?",
+    "title": "From one missing pen\nto a whole new term.",
+    "items": [
+      {
+        "title": "Back-to-school, sorted.",
+        "text": "Bring the school list and preferred brands. We’ll help you check the essentials, quantities and available options.",
+        "tag": "FOR STUDENTS & PARENTS"
+      },
+      {
+        "title": "Keep the work flowing.",
+        "text": "Running low on the things everyone borrows? Put together your office restock, from paper to pens to files.",
+        "tag": "FOR TEAMS & BUSINESSES"
+      },
+      {
+        "title": "Make room for an idea.",
+        "text": "A sketchbook, some colour, a project in mind. Find the everyday basics for whatever you want to make next.",
+        "tag": "FOR EVERYDAY CREATORS"
+      }
+    ]
+  },
+  "visit": {
+    "eyebrow": "04 / BRING YOUR LIST. WE’LL TAKE IT FROM THERE.",
+    "title": "Let’s get you\nwell supplied.",
+    "text": "Jot down what you need, how much you need and any brands you prefer. We’ll confirm the options and prices available before you buy.",
+    "pending": "Shop address, opening hours and contact details are coming soon.",
+    "checklistTitle": "BEFORE YOU SHOP",
+    "checklist": [
+      "Your items & preferred brands",
+      "Quantities or pack sizes",
+      "Check current prices & availability"
+    ],
+    "note": "Product range, brands, pack sizes and prices depend on current stock."
+  },
+  "footer": {
+    "tagline": "For the pages, projects and plans ahead.",
+    "sister": "A sister shop to the bookstore.",
+    "books": "Find your next read",
+    "top": "Back to top",
+    "copyright": "Maaya Stationery"
+  },
+  "promo": {
+    "eyebrow": "MEET OUR SISTER SHOP",
+    "title": "More in your bag. Less on your bill.",
+    "text": "School, office and everyday stationery. Wholesale-to-retail value, with fewer middlemen.",
+    "link": "Explore Maaya Stationery"
+  },
+  "shop": {
+    "eyebrow": "THE SHOP / FIND US & GET IN TOUCH",
+    "title": "Come by. Bring your list.",
+    "intro": "School supplies, office restocks and everyday stationery, with wholesale-to-retail value. Here’s where to find us and how to reach the shop.",
+    "addressLabel": "Visit Maaya Stationery",
+    "address": "",
+    "addressPending": "Our shop address will be shared here soon.",
+    "hoursLabel": "Opening hours",
+    "hours": "",
+    "hoursPending": "Opening hours will be shared here soon.",
+    "contactLabel": "Ask the shop",
+    "contactText": "Check prices, available brands and quantities before you visit.",
+    "phone": "",
+    "email": "",
+    "whatsapp": "",
+    "whatsappLabel": "Chat on WhatsApp",
+    "contactPending": "Our phone, email and WhatsApp details will be shared here soon.",
+    "directionsUrl": "",
+    "directionsLabel": "Get directions",
+    "mapEmbedUrl": "",
+    "mapTitle": "Maaya Stationery shop location",
+    "mapPending": "Our shop location, coming soon."
+  },
+  "showcase": {
+    "eyebrow": "A FEW EVERYDAY FAVOURITES",
+    "title": "Good things to have on hand.",
+    "text": "A look at the useful little things you can shop for. Bring your list and ask us about the brands and pack sizes in stock.",
+    "note": "Illustrated examples of our range. Brands, colours, pack sizes and availability vary; check current options and prices with the shop.",
+    "items": [
+      {
+        "name": "Everyday notebooks",
+        "category": "FRESH PAGES",
+        "description": "For class notes, daily lists and ideas in the margins."
+      },
+      {
+        "name": "Ballpoint pens",
+        "category": "WRITE IT DOWN",
+        "description": "Easy everyday writing for school, work and home."
+      },
+      {
+        "name": "Writing pencils",
+        "category": "START WITH A SKETCH",
+        "description": "For first drafts, workings-out and your next sketch."
+      },
+      {
+        "name": "Highlighters",
+        "category": "MAKE IT STAND OUT",
+        "description": "A little colour for the lines you want to come back to."
+      },
+      {
+        "name": "Files & folders",
+        "category": "A PLACE FOR PAPER",
+        "description": "Keep assignments, documents and loose sheets together."
+      },
+      {
+        "name": "Sticky notes",
+        "category": "DON’T FORGET",
+        "description": "Quick reminders for your desk, notebook or next big plan."
+      },
+      {
+        "name": "Paper clips",
+        "category": "LITTLE HELPERS",
+        "description": "Small essentials that keep the day’s paperwork in order."
+      },
+      {
+        "name": "Scissors",
+        "category": "READY TO MAKE",
+        "description": "A useful addition to your craft kit or desk drawer."
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "$schema": "./schemas/site.schema.json",
+  "brand": {
+    "name": "Margin",
+    "monogram": "m.",
+    "homeLabel": "Margin home"
+  },
+  "metadata": {
+    "language": "en",
+    "title": "Margin — Good books. Unhurried discovery.",
+    "description": "Margin — an independent bookish corner. Discover a considered collection of good books, explore a new curiosity, and save your next read.",
+    "themeColor": "#faf9f6"
+  },
+  "navigation": [
+    {
+      "href": "/collection",
+      "label": "The collection"
+    },
+    {
+      "href": "/reading-lists",
+      "label": "Reading lists"
+    },
+    {
+      "href": "/journal",
+      "label": "The journal"
+    },
+    {
+      "href": "/about",
+      "label": "Our story"
+    },
+    {
+      "href": "/stationery",
+      "label": "Stationery ↗"
+    }
+  ],
+  "footer": {
+    "tagline": "For the love of the written word.",
+    "note": "Selected with care. Read at your own pace.",
+    "backToTop": "Back to top ↑"
+  },
+  "closing": {
+    "title": "A good book is a beginning.",
+    "lines": [
+      "A new thought. A different perspective. A little company.",
+      "We hope you find yours here."
+    ],
+    "linkLabel": "A little about us"
+  }
+}

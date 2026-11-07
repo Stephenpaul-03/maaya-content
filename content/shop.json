@@ -1,0 +1,54 @@
+{
+  "$schema": "./schemas/shop.schema.json",
+  "demoNotice": "Demo shop details — address, map, contacts and social links are examples for this preview.",
+  "eyebrow": "BEYOND THE BOOKSHELF",
+  "title": "A little bookshop. A warm welcome.",
+  "intro": "Get to know {brand}, find your way here, or let a good book come to you.",
+  "storyLink": "Meet the people behind the shelves",
+  "contact": {
+    "title": "Let’s talk books.",
+    "description": "Looking for a particular title or a little help choosing? Get in touch.",
+    "phone": "+1 202 555 0147",
+    "email": "hello@example.com",
+    "whatsapp": "12025550147",
+    "whatsappLabel": "Chat on WhatsApp",
+    "pending": "Our public contact details will be shared here soon.",
+    "socialTitle": "Find us elsewhere",
+    "socialPending": "Follow along here soon for books and news from the shop.",
+    "socials": [
+      { "label": "Instagram", "url": "https://example.com/instagram" },
+      { "label": "Facebook", "url": "https://example.com/facebook" }
+    ]
+  },
+  "visit": {
+    "title": "Find your way to us.",
+    "address": ["Margin Bookshop · Demo address", "12 Example Lane", "Chennai, Tamil Nadu"],
+    "hours": ["Monday–Saturday · 10 am–8 pm", "Sunday · 11 am–6 pm"],
+    "hoursLabel": "Opening hours",
+    "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Chennai%2C%20Tamil%20Nadu",
+    "mapEmbedUrl": "https://www.google.com/maps?q=Chennai%2C%20Tamil%20Nadu&z=13&output=embed",
+    "mapTitle": "Demo location map — Chennai, not an actual shop address",
+    "directionsLabel": "Get directions",
+    "pending": "Our address and visiting hours will be shared here soon.",
+    "mapPending": "Our spot on the map, coming soon."
+  },
+  "courier": {
+    "title": "Good books travel, too.",
+    "badge": "COURIER AVAILABLE",
+    "summary": "Can’t visit? Courier delivery is available. Ask us about sending your next read to you.",
+    "details": "Share your book list and delivery postcode when you enquire. We’ll confirm availability, courier coverage, delivery charges, and an estimated delivery time before you order.",
+    "linkLabel": "Put together your book list"
+  },
+  "chapters": [
+    {
+      "label": "THE BEGINNING",
+      "title": "It starts with a good book.",
+      "text": "The idea behind {brand} is simple: discovering your next read should feel personal. A thoughtful recommendation, an unexpected find, and enough time to follow your curiosity."
+    },
+    {
+      "label": "THE SHOP TODAY",
+      "title": "A shelf to make your own.",
+      "text": "Browse the collection, explore a reading list, or settle into the journal. Keep the books you love on your wishlist and ask us about the editions available. Whether you visit or enquire about courier delivery, it begins with a conversation."
+    }
+  ]
+}

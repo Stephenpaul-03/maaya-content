@@ -1,0 +1,27 @@
+{
+  "$schema": "./schemas/inquiry.schema.json",
+  "body": {
+    "greeting": "Hello {brand} team,",
+    "introduction": "Could you please confirm the availability of the following books?",
+    "bookLine": "{number}. {title} — {author} ({languages})",
+    "closing": [
+      "Please let me know which titles are available, their prices, and the available editions.",
+      "Thank you!"
+    ]
+  },
+  "ui": {
+    "title": "From your shelf to your hands.",
+    "description": "Ask our bookshop about all {count} saved books by WhatsApp or email.",
+    "button": "Ask on WhatsApp",
+    "hint": "Choose WhatsApp or your email app. Your book list is prefilled; review it and send when you’re ready.",
+    "empty": "Save a book to your bookshelf to ask about availability.",
+    "unconfigured": "Availability requests will be available here soon.",
+    "descriptionOne": "Ask our bookshop about your saved book by WhatsApp or email.",
+    "emailButton": "Ask by email"
+  },
+  "businessNumber": "12025550147",
+  "email": {
+    "recipient": "availability@example.com",
+    "subject": "Book availability request — {brand}"
+  }
+}

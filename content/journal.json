@@ -1,0 +1,50 @@
+{
+  "$schema": "./schemas/journal.schema.json",
+  "articles": [
+    {
+      "slug": "permission-to-read-slowly",
+      "title": "Permission to read slowly",
+      "category": "THE READING LIFE",
+      "time": "3 min read",
+      "intro": "Your reading list isn’t a to-do list. A small case for taking your time.",
+      "paragraphs": [
+        "Somewhere along the way, reading became something to count. Books per month. Pages per day. A yearly target inching toward completion. There is pleasure in a little structure, but there is also pleasure in forgetting the clock.",
+        "A book can be a place you visit, rather than a task you finish. Read the same paragraph twice. Stop to look out of the window. Spend a whole evening with ten pages if those ten pages give you something to think about.",
+        "Try leaving a book somewhere inviting: beside a chair, near the kettle, on the far side of your phone. Let it be an invitation rather than an obligation. You do not need an hour. You do not need to start at the beginning every time.",
+        "And if a book is not right for you now, put it down. A shelf is full of possible conversations. You are allowed to choose the one you need today. The others will wait."
+      ],
+      "book": 3,
+      "artStyle": "book"
+    },
+    {
+      "slug": "a-shelf-of-your-own",
+      "title": "A shelf of your own",
+      "category": "LITTLE RITUALS",
+      "time": "3 min read",
+      "intro": "Building a collection that feels like you, one well-loved book at a time.",
+      "paragraphs": [
+        "The best bookshelf is not necessarily the biggest, or the most carefully arranged. It is the one you reach for. A few books with bent corners can tell a richer story than a wall of untouched spines.",
+        "Begin with what stays with you. A novel you keep thinking about. A collection of essays that asks a question you cannot quite answer. A book someone gave you at exactly the right time. These are the foundations of a personal library.",
+        "Make a little room for the unfamiliar, too. Place a book about nature beside a book about buildings. Let a poem interrupt a practical guide. Interesting things happen when books become unlikely neighbours.",
+        "There is no final version of your shelf. Lend something. Give something away. Bring something unexpected home. A collection grows with the life around it, and that is what makes it yours."
+      ],
+      "book": 5,
+      "artStyle": "bookmark"
+    },
+    {
+      "slug": "the-art-of-noticing",
+      "title": "The art of noticing",
+      "category": "BETWEEN THE PAGES",
+      "time": "4 min read",
+      "intro": "What books can teach us about paying attention to the everyday.",
+      "paragraphs": [
+        "Reading begins with a small act of attention. We set something else aside and allow another voice into the room. For a while, we agree to follow where it leads.",
+        "That habit can travel beyond the page. After a thoughtful book, a familiar street can feel different. A tree is no longer simply a tree. A building is a series of decisions. An ordinary conversation holds more than it first appears to.",
+        "You can practise this without making it a project. Take a familiar walk and notice one thing you have not noticed before. Write down a sentence that catches your ear. Let yourself be curious without needing an immediate answer.",
+        "The books we return to often do not tell us what to think. They help us see what was already there. That is a quiet kind of generosity, and one worth making room for."
+      ],
+      "book": 4,
+      "artStyle": "feather"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "./schemas/reading-lists.schema.json",
+  "lists": [
+    {
+      "slug": "a-quieter-weekend",
+      "title": "A quieter weekend",
+      "label": "SLOW DOWN",
+      "description": "Put the kettle on. Let the world wait. These books reward a little stillness.",
+      "ids": [
+        2,
+        3,
+        6
+      ],
+      "color": "sage",
+      "icon": "01"
+    },
+    {
+      "slug": "a-new-way-of-seeing",
+      "title": "A new way of seeing",
+      "label": "MAKE ROOM FOR IDEAS",
+      "description": "For the maker, the daydreamer, and anyone who wants to notice a little more.",
+      "ids": [
+        1,
+        5,
+        3
+      ],
+      "color": "butter",
+      "icon": "02"
+    },
+    {
+      "slug": "closer-to-the-world",
+      "title": "Closer to the world",
+      "label": "PAY ATTENTION",
+      "description": "A few thoughtful companions for reconnecting with the places and people around us.",
+      "ids": [
+        4,
+        5,
+        6
+      ],
+      "color": "clay",
+      "icon": "03"
+    }
+  ]
+}

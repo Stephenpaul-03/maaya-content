@@ -1,0 +1,119 @@
+{
+  "$schema": "./schemas/ui.schema.json",
+  "common": {
+    "allBooks": "All books",
+    "home": "Home",
+    "bookshelf": "My bookshelf",
+    "collection": "Explore the collection",
+    "byAuthor": "by {author}"
+  },
+  "accessibility": {
+    "closeDialog": "Close dialog",
+    "skipContent": "Skip to content",
+    "mainNavigation": "Main navigation",
+    "searchBooks": "Search books",
+    "switchToDark": "Switch to dark mode",
+    "switchToLight": "Switch to light mode",
+    "bookshelfCount": "My bookshelf, {count} books",
+    "openNavigation": "Open navigation",
+    "navigation": "Navigation",
+    "previewBook": "Preview {title}",
+    "exploreBook": "Explore {title}",
+    "saveBook": "Save {title}",
+    "removeBook": "Remove {title}"
+  },
+  "book": {
+    "previewHint": "Take a closer look",
+    "save": "Save to my bookshelf",
+    "saved": "Saved to your bookshelf",
+    "onShelf": "On your bookshelf",
+    "visit": "Visit the book’s page",
+    "share": "Share this book",
+    "back": "Back to the collection",
+    "artCaption": "A BOOK WORTH SPENDING TIME WITH",
+    "facts": {
+      "author": "AUTHOR",
+      "published": "FIRST PUBLISHED",
+      "genre": "ON OUR SHELF",
+      "language": "LANGUAGE"
+    },
+    "editionNote": "Ask our bookshop about the available editions. Cover artwork may differ from the edition in stock.",
+    "relatedLabel": "KEEP WANDERING",
+    "relatedTitle": "Perhaps, next…"
+  },
+  "collection": {
+    "searchLabel": "Search collection",
+    "searchPlaceholder": "Search titles, authors, or languages",
+    "clearSearch": "Clear search",
+    "surprise": "Surprise me",
+    "sortLabel": "Sort by",
+    "sortAccessibleLabel": "Sort books",
+    "sortOptions": [
+      {
+        "value": "curated",
+        "label": "Our selection"
+      },
+      {
+        "value": "title",
+        "label": "Title: A–Z"
+      },
+      {
+        "value": "newest",
+        "label": "Newest first"
+      }
+    ],
+    "countOne": "{count} good book",
+    "countMany": "{count} good books",
+    "emptyTitle": "No books on this shelf just yet.",
+    "emptyText": "Try another title, author, or genre.",
+    "reset": "Reset filters",
+    "languageLabel": "Language",
+    "allLanguages": "All languages"
+  },
+  "shelf": {
+    "deviceLabel": "Saved on this device",
+    "remove": "Remove from shelf",
+    "emptyTitle": "Your wishlist starts here.",
+    "emptyText": "Save the books you’d like to buy, then ask us about their availability.",
+    "countOne": "{count} book on your wishlist",
+    "countMany": "{count} books on your wishlist"
+  },
+  "readingLists": {
+    "editorialNote": [
+      "A reading list is a starting point, never a syllabus.",
+      "Wander off whenever something catches your eye."
+    ],
+    "back": "All reading lists",
+    "detailNote": [
+      "{count} books. Different doors.",
+      "Start wherever you feel at home."
+    ],
+    "save": "Save this reading list",
+    "cardLabel": "{count} books to get lost in"
+  },
+  "journal": {
+    "read": "Read the note",
+    "back": "Back to the journal",
+    "byline": "The {brand} editors",
+    "bylineNote": "Notes from our bookish corner",
+    "companionLabel": "A COMPANION FOR THIS THOUGHT",
+    "companionLink": "Meet the book"
+  },
+  "search": {
+    "title": "Find your next read.",
+    "eyebrow": "SOMETHING ON YOUR MIND?",
+    "label": "Search title, author, or genre",
+    "placeholder": "A title, an author, a curiosity…",
+    "empty": "No books found. Try a different title, author, or genre."
+  },
+  "menu": {
+    "eyebrow": "TAKE A LITTLE WANDER"
+  },
+  "feedback": {
+    "removed": "Book removed from your shelf",
+    "saved": "A good book, kept for later",
+    "listSaved": "All {count} books are on your shelf",
+    "linkCopied": "Book link copied",
+    "copyFallback": "Copy the address from your browser to share this book"
+  }
+}

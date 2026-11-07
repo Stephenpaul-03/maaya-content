@@ -1,0 +1,33 @@
+{
+  "$schema": "./schemas/pages.schema.json",
+  "collection": {
+    "label": "THE WHOLE COLLECTION",
+    "title": "Follow your curiosity.",
+    "text": "Good stories, fresh perspectives, and a few beautiful distractions. Find the one that speaks to you."
+  },
+  "bookshelf": {
+    "label": "YOUR BOOK WISHLIST",
+    "title": "The books you’d love to own.",
+    "text": "Keep the books you’d like to buy in one place. Send us your list to check availability and prices."
+  },
+  "readingLists": {
+    "label": "BOOKS THAT BELONG TOGETHER",
+    "title": "Find your vibe.",
+    "text": "Some days you want an escape. Others, a new idea. A few small collections to meet you where you are."
+  },
+  "journal": {
+    "label": "NOTES FROM THE MARGINS",
+    "title": "Between the pages.",
+    "text": "Thoughts on reading, little rituals, and living a life with books in it."
+  },
+  "about": {
+    "label": "OUR LITTLE STORY",
+    "title": "For the love of the page.",
+    "text": "An independent bookish corner. A considered collection. An open invitation to stay a while."
+  },
+  "notFound": {
+    "title": "This page wandered off.",
+    "text": "There are still plenty of good books to discover.",
+    "linkLabel": "Back to the shelves"
+  }
+}

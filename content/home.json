@@ -1,0 +1,62 @@
+{
+  "$schema": "./schemas/home.schema.json",
+  "hero": {
+    "eyebrow": "AN INDEPENDENT BOOKISH CORNER",
+    "titleLine": "Great Books",
+    "secondLine": "Unhurried",
+    "emphasis": "discovery.",
+    "description": [
+      "For curious minds and well-worn pages.",
+      "A considered collection of books worth getting lost in."
+    ],
+    "cta": "Find your next read",
+    "footnote": "Selected with care. Read at your own pace.",
+    "shelfLabel": "ON OUR STUDY TABLE",
+    "shelfNote": "the underdog in the office",
+    "featuredBookIds": [
+      3,
+      1,
+      4
+    ]
+  },
+  "manifesto": {
+    "lead": "Not every book.",
+    "emphasis": "Just the ones that stay with you.",
+    "note": "EST. 2024 · ALWAYS CURIOUS"
+  },
+  "collection": {
+    "featuredBookIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "eyebrow": "THE BOOKS COME FIRST",
+    "title": "Find your next good book.",
+    "linkLabel": "Explore the collection",
+    "description": "A small, considered collection. Find a favourite and make it yours."
+  },
+  "readingLists": {
+    "featuredSlugs": [
+      "a-quieter-weekend",
+      "a-new-way-of-seeing",
+      "closer-to-the-world"
+    ],
+    "eyebrow": "FOLLOW A FEELING",
+    "title": "There’s a book for that.",
+    "linkLabel": "All reading lists"
+  },
+  "journal": {
+    "eyebrow": "A NOTE FROM THE JOURNAL",
+    "featuredArticleSlug": "the-art-of-noticing",
+    "titleLine": "The art of noticing",
+    "emphasis": "",
+    "description": [
+      "What books can teach us about paying attention to the everyday."
+    ],
+    "linkLabel": "Stay a little longer",
+    "illustrationLabel": "one more page."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "$schema": "./schemas/offers.schema.json",
+  "enabled": true,
+  "position": "after-collection",
+  "layout": "grid",
+  "columns": 2,
+  "maxVisible": 3,
+  "eyebrow": "A LITTLE SOMETHING EXTRA",
+  "title": "A little extra, just for you.",
+  "description": "A preview of your offers section. Replace the sample promotions below with your bookshop’s current deals.",
+  "labels": {
+    "copyCode": "Copy code",
+    "copied": "Code copied",
+    "copyFailed": "Couldn’t copy. Select and copy the code below.",
+    "codeLabel": "Offer code",
+    "terms": "Offer details"
+  },
+  "items": [
+    {
+      "id": "sample-welcome",
+      "enabled": true,
+      "badge": "SAMPLE OFFER",
+      "title": "Make room for one more.",
+      "highlight": "10% off",
+      "description": "Example promotion: a little welcome discount on selected books.",
+      "theme": "sage",
+      "code": "WELCOME10",
+      "terms": "Demo offer — replace the discount, code, and terms before publishing. Availability and eligibility must be confirmed by the bookshop.",
+      "cta": {
+        "label": "Explore the collection",
+        "href": "#/collection",
+        "newTab": false
+      },
+      "bookIds": [
+        1,
+        4
+      ],
+      "startsAt": null,
+      "endsAt": null
+    },
+    {
+      "id": "sample-weekend",
+      "enabled": true,
+      "badge": "SAMPLE OFFER",
+      "title": "Better, together.",
+      "highlight": "A bookish bundle",
+      "description": "Example promotion: pair two favourites for a special bundle price.",
+      "theme": "butter",
+      "code": "",
+      "terms": "Demo offer — configure eligible titles and pricing before publishing. Ask the bookshop for current details.",
+      "cta": {
+        "label": "Build your wishlist",
+        "href": "#/collection",
+        "newTab": false
+      },
+      "bookIds": [
+        2,
+        6
+      ],
+      "startsAt": null,
+      "endsAt": null
+    }
+  ],
+  "emphasizeFirst": true
+}
